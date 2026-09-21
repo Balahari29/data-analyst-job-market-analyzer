@@ -214,10 +214,11 @@ The project contains two related concepts:
 📸 Dashboard Screenshots
 
 Overview
-
+![Overview Dashboard](screenshots/overview.png)
 Skills Demand & Co-occurrence Analysis
-
+![Skills Demand Dashboard](screenshots/skills-demand.png)
 Industry & Compensation Analysis
+![Industry & Compensation Dashboard](screenshots/industry-compensation.png)
 
 👤 Author
 
