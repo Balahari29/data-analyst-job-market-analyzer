@@ -216,9 +216,9 @@ The project contains two related concepts:
 Overview
 ![Overview Dashboard](screenshot/Overview.png)
 Skills Demand & Co-occurrence Analysis
-![Skills Demand Dashboard](screenshot/Industry&CompensationAnalysis.png)
+![Skills Demand Dashboard](screenshot/SkillsDemand&Co-occurrenceAnalysis.png)
 Industry & Compensation Analysis
-![Industry & Compensation Dashboard](screenshot/SkillsDemand&Co-occurrenceAnalysis.png)
+![Industry & Compensation Dashboard](screenshot/Industry&CompensationAnalysis.png)
 
 👤 Author
 
