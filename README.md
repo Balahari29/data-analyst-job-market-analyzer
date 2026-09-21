@@ -204,11 +204,11 @@ During development, a discrepancy was identified between job-posting counts and 
 The project contains two related concepts:
 
 
+The project contains two related concepts:
 
-```text
-postings[id]
-    ↓
-posting_skills[posting_id]
+`postings[id]`  
+↓  
+`posting_skills[posting_id]`
 
 ```
 📸 Dashboard Screenshots
